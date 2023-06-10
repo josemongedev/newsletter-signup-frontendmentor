@@ -1,0 +1,17 @@
+{
+  "name": "newsletter-frontendmentor-challenge",
+  "version": "0.1",
+  "main": "script.js",
+  "author": {
+    "name": "Jose Monge",
+    "email": "info@josemonge.dev",
+    "url": "https://josemonge.dev"
+  },
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {}
+}
